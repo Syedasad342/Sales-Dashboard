@@ -36,4 +36,4 @@ MIT – feel free to fork, extend, or add your own models.
 
 6. Screenshot / Demos
 Show what the dashboard looks like.
-Example:
+Example:https://github.com/Syedasad342/Sales-Dashboard/blob/main/Snapshot%20Of%20the%20Dashboard.png
